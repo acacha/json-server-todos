@@ -1,7 +1,37 @@
-[
-{"name":"Comprar llet", "done": true, "priority": 2},
-{"name":"Comprar pa", "done": true, "priority": 1},
-{"name":"Fer exercici", "done": false, "priority": 3},
-{"name":"Estudiar", "done": false, "priority": 3},
-{"name":"Un altre cosa", "done": false, "priority": 3}
-]
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Buy milk",
+      "done": true,
+      "priority": 2
+    },
+    {
+      "id": 2,
+      "name": "Buy bread",
+      "done": true,
+      "priority": 1
+    },
+    {
+      "name": "Fit myself",
+      "done": true,
+      "priority": 2,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Study more",
+      "done": false,
+      "priority": 3
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "See game of Thrones",
+      "done": false,
+      "priority": 3,
+      "id": 6
+    }
+  ]
+}

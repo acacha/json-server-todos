@@ -1,0 +1,7 @@
+[
+{"name":"Comprar llet", "done": true, "priority": 2},
+{"name":"Comprar pa", "done": true, "priority": 1},
+{"name":"Fer exercici", "done": false, "priority": 3},
+{"name":"Estudiar", "done": false, "priority": 3},
+{"name":"Un altre cosa", "done": false, "priority": 3}
+]
